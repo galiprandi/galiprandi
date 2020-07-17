@@ -1,12 +1,10 @@
-## Hi, how are you?  👋
+# Hi, how are you ?  👋
 
-I am from Argentina, currently I live in Tucumán and I have a small business called [Gadget](https://micamara.ga/) in which we sell and repair photographic equipment.
+### I am from Argentina, currently I live in Tucumán and I have a small business called [Gadget](https://micamara.ga/) in which we sell and repair photographic equipment.
 
-Besides I am passionate about programming, especially Frontend technologies and I usually try some technologies that I find interesting.
+### Besides I am passionate about programming, especially Frontend technologies and I usually try some technologies that I find interesting. Lately I'm playing with [Svelte](https://svelte.dev/).
 
-- 🔭 Lately I'm playing with [Svelte](https://svelte.dev/).
-
-### Personal Networks
+### My Personal Networks
 
 - [Email](mailto:galiprandi@gmail.com)
 
