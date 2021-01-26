@@ -24,9 +24,17 @@
 
 :ok_hand: Amazon Web Services: Basic Level (+2 years)
 
+### ToDo
+
+- Fix my bike
+
+- Learning React & Go
+
 ### My Personal Networks
 
 - [Email](mailto:galiprandi@gmail.com)
+
+- [Telegram](https://t.me/galiprandi)
 
 - [Linkedin](https://www.linkedin.com/in/galiprandi)
 
