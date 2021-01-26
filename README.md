@@ -32,15 +32,15 @@
 
 ### My Personal Networks
 
-- [Email](mailto:galiprandi@gmail.com)
+* [Email](mailto:galiprandi@gmail.com)
 
-- [Telegram](https://t.me/galiprandi)
+* [Telegram](https://t.me/galiprandi)
 
-- [Linkedin](https://www.linkedin.com/in/galiprandi)
+* [Linkedin](https://www.linkedin.com/in/galiprandi)
 
-- [Facebook](https://www.facebook.com/GadgetTucuman/)
+* [Facebook](https://www.facebook.com/GadgetTucuman/)
 
-- [Instagram](https://www.instagram.com/gadget_tucuman/)
+* [Instagram](https://www.instagram.com/gadget_tucuman/)
 
 <!--
 **galiprandi/galiprandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
