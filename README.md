@@ -6,7 +6,7 @@
 
 ### I've been development websites for more than 20 years as a hobby, and now I'm determined to dedicate myself professionally to it, which is what I love make.
 
-#### [You can see mi online resume at: galiprandi.github.io/me](https://galiprandi.github.io/me)
+#### You can see mi online resume at: [galiprandi.github.io/me](https://galiprandi.github.io/me)
 
 ### My Personal Networks
 
