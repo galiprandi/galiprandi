@@ -1,12 +1,12 @@
 # Hi, how are you ?  👋
 
-#### I am from Argentina, a web developer with more than 10 years of experience in frontend technologies, and I have solid knowledge's of Javascript, CSS and a lot of libraries.
+#### I'm web developer with more than 10 years of experience in frontend technologies and with solid knowledge's of Javascript, CSS and some of the modern libraries like React, Svelte and Vue.
 
-#### I like to keep up to date with the latest technologies and apply best development practices.
+#### I like to keep me up to date with the latest technologies and apply the modern and the best development practices.
 
-#### That is why I am looking for a project and a team in which I can apply everything I have learned. 
+#### I'm currently in search of a challenging project in witch I can apply what I have learned and learn new things. 
 
-##### You can see mi online resume at: [galiprandi.github.io/me](https://galiprandi.github.io/me)
+##### You can see and download my resume from: [galiprandi.github.io/me](https://galiprandi.github.io/me)
 
 ### My Personal Networks
 
