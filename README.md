@@ -1,10 +1,8 @@
 # Hi, how are you ?  👋
 
-#### I'm web developer with more than 10 years of experience in frontend technologies and with solid knowledge's of Javascript, CSS and some of the modern libraries like React, Svelte and Vue.
+### I am a frontend developer with more than 10 years of experience and knowledge in the most current technologies and frameworks.
 
-#### I like to keep me up to date with the latest technologies and apply the modern and the best development practices.
-
-#### I'm currently in search of a challenging project in witch I can apply what I have learned and learn new things. 
+### I am always ready to accept new challenges that keep me excited and constantly growing. 
 
 ##### You can see and download my resume from: [galiprandi.github.io/me](https://galiprandi.github.io/me)
 
