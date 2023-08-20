@@ -1,31 +1,57 @@
-# German Aliprandi
+<h1 align="left">Hey 👋 What's up?</h1>
 
-### Engineering Manager at [Egg Cooperation](https://egg.live/es-ar/)
+###
 
-With over 20 years of experience in IT and software development, I have led a variety of engineering teams
-ensuring agile development cycles and the delivery of continuous value to the user.
-I like to keep the focus on software quality and the harmony of the teams I lead, always with one eye on the
-engineering and the other on the business. Without neglecting the needs and requirements of any of them.
-My experience is wide and varied and includes technologies such as JavaScript, TypeScript, ReactJS, NodeJS,
-AWS, NextJS, Databases, among others. I have experience designing the architecture of many applications and
-managing large and complex projects.
-I have certifications in ReactJS and Engineering Management Leadership, as well as proven experience in
-application development, team leadership and working in high-growth startups.
+<p align="left">My name is Germán Aliprandi and I am an Engineering Manager with over 20 years of experience in the IT world. I believe that today, leading technology teams is where I can contribute the most value to software development, which is why I specialize and continuously refine my skills.</p>
+
+<p align="left">Even though my focus is on leadership, I have never stopped coding because I simply love doing it. I enjoy learning and experimenting with new tools and technologies, and I hope to never stop doing so.</p>
+
+<p align="left">Thank you for visiting my profile, and please feel free to send me a message if you wish.</p>
+
+###
+
+<h2 align="left">More about me</h2>
+
+###
+
+<p align="left">
+📚 Learning: Currently, I am primarily studying Fastify and how it creates highly scalable, high-performance backends in TypeScript, as well as Qwik, which I consider the most disruptive frontend framework of the moment. In addition to this, I never stop reading newsletters about leadership and agile methodologies.
+</p>
+<p align="left">
+🎯 Goal: My professional goal is to build and improve the best possible software product and work environment. On a personal level, my goal is to build the happiest family in the world.
+</p>
+<p align="left">
+🎲 Fun: I enjoy doing some sports, mainly paddle tennis, riding a bike, and above all, spending time with my children. Nothing more.
+</p>
+
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<h2 align="left">Contact me</h2>
 
 * [Email](mailto:galiprandi@gmail.com)
 
 * [Linkedin](https://www.linkedin.com/in/galiprandi)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
