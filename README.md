@@ -23,7 +23,7 @@
 <p align="left">
 🎲 Fun: I enjoy doing some sports, mainly paddle tennis, riding a bike, and above all, spending time with my children. Nothing more.
 </p>
-<p align="left">💻 Project: Currently, I'm pouring my energy into<a href="https://www.npmjs.com/package/@galiprandi/react-tools">@galiprandi/react-tools</a>, a library aimed at simplifying and enhancing React development. It's a labor of love that I'm excited to share with the community!</p>
+<p align="left">💻 Project: Currently, I'm pouring my energy into <a href="https://www.npmjs.com/package/@galiprandi/react-tools">@galiprandi/react-tools</a>, a library aimed at simplifying and enhancing React development. It's a labor of love that I'm excited to share with the community!</p>
 
 
 ###
