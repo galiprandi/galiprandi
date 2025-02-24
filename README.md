@@ -4,25 +4,15 @@
   🚀 Engineering Manager | Software Developer | Tech Leader  
 </p>
 
----
 
 ### 🧑‍💻 About Me
 
-With over **20 years of experience** in software development and engineering leadership, I focus on building **scalable software solutions** and fostering collaborative engineering teams.  
+I am a passionate Engineering Manager and Software Developer with over **20 years of experience** leading high-impact projects and building **scalable software solutions**. My expertise lies in fostering **collaborative engineering teams**, driving **technical excellence**, and staying ahead of **emerging technologies**.
 
 - 💼 **Current Role**: Engineering Manager at **Egg Live**.  
 - 🔨 **Tech Stack**: TypeScript, React, Node.js, AWS.  
 - 🎙️ **Creator** of the podcast [Code Snapshots](https://www.youtube.com/@Code-Snaps).  
-- 🚀 **Key Areas**: Agile practices, technical leadership, and emerging technologies.  
-
----
-
-### 🛠 Technical Skills
-
-- **Frontend**: React, Next.js, TypeScript, Qwik, Vite.  
-- **Backend**: Node.js, Fastify, Express.  
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda), Docker, GitHub Actions.  
-- **Tools**: Bash Scripts, React Query, Vitest, CI/CD pipelines.  
+- 🚀 **Key Areas**: Agile methodologies, technical leadership, software architecture, and cloud computing.  
 
 ---
 
@@ -40,6 +30,30 @@ With over **20 years of experience** in software development and engineering lea
 | **Personal Website**   | Professional portfolio showcasing my experience, projects, and skills.                   | React, GitHub Pages             | [Visit Site](https://galiprandi.github.io/me)                        |
 | **Code Snapshots**     | A podcast featuring 15-minute episodes on modern technologies and development practices. | YouTube, Tech Talks             | [Watch Here](https://www.youtube.com/@Code-Snaps)                    |
 | **Backend Course**     | A comprehensive course on backend development using modern technologies.                 | Node.js, TypeScript, Prisma     | [GitHub Repo](https://github.com/galiprandi/api-stock)               |
+
+---
+
+### 🛠 Technical Skills
+
+#### **Frontend Development**
+- React, Next.js, TypeScript, Qwik, Vite
+- State Management: React Query, Redux, Zustand
+- UI/UX: Styled Components, Tailwind CSS
+
+#### **Backend Development**
+- Node.js, Fastify, Express
+- Database: PostgreSQL, Prisma, MongoDB
+- API Development: REST, GraphQL, WebSockets
+
+#### **Cloud & DevOps**
+- AWS (EC2, S3, Lambda, DynamoDB)
+- Docker, Kubernetes, GitHub Actions
+- CI/CD pipelines, Bash Scripting
+
+#### **Testing & Automation**
+- Unit & Integration Testing: Vitest, Jest
+- End-to-End Testing: Playwright, Cypress
+
 ---
 
 ### 🌐 Connect with Me
