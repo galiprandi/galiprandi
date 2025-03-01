@@ -20,6 +20,9 @@ I am a passionate Engineering Manager and Software Developer with over **20 year
 
 | Project                | Description                                                                              | Technologies                    | Link                                                                 |
 | ---------------------- | ---------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------------- |
+| **Personal Website**   | Professional portfolio showcasing my experience, projects, and skills.                   | React, GitHub Pages             | [Visit Site](https://galiprandi.github.io/me)                        |
+| **Code Snapshots**     | A podcast featuring 15-minute episodes on modern technologies and development practices. | YouTube, Tech Talks             | [Watch Here](https://www.youtube.com/@Code-Snaps)                    |
+| **Backend Course**     | A comprehensive course on backend development using modern technologies.                 | Node.js, TypeScript, Prisma     | [GitHub Repo](https://github.com/galiprandi/api-stock)               |
 | **React Tools**        | A utility library to simplify and enhance React development.                             | React, TypeScript, NPM          | [View on NPM](https://www.npmjs.com/package/@galiprandi/react-tools) |
 | **Array Join**         | A utility library for joining arrays with custom formatting options.                     | TypeScript, NPM                 | [View on NPM](https://www.npmjs.com/package/@galiprandi/array-join)  |
 | **Tabata Timer**       | A PWA for interval-based workouts using the Tabata method.                               | React, TypeScript, PWA          | [Live App](https://galiprandi.github.io/tabata)                      |
@@ -27,9 +30,6 @@ I am a passionate Engineering Manager and Software Developer with over **20 year
 | **Sustainable Cities** | A data-driven app promoting sustainable urban development.                               | React, TypeScript, GitHub Pages | [Live App](https://galiprandi.github.io/ciudades-sostenibles)        |
 | **Event Manager**      | A web tool for organizing and managing events effectively.                               | React, Node.js, Express         | [GitHub Repo](https://github.com/galiprandi/eventManager)            |
 | **Meta Tag Generator** | A simple app to generate SEO-friendly meta tags for your website.                        | HTML, CSS, JavaScript           | [Live App](https://galiprandi.github.io/meta-tag-generator/)         |
-| **Personal Website**   | Professional portfolio showcasing my experience, projects, and skills.                   | React, GitHub Pages             | [Visit Site](https://galiprandi.github.io/me)                        |
-| **Code Snapshots**     | A podcast featuring 15-minute episodes on modern technologies and development practices. | YouTube, Tech Talks             | [Watch Here](https://www.youtube.com/@Code-Snaps)                    |
-| **Backend Course**     | A comprehensive course on backend development using modern technologies.                 | Node.js, TypeScript, Prisma     | [GitHub Repo](https://github.com/galiprandi/api-stock)               |
 
 ---
 
