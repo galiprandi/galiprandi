@@ -16,15 +16,16 @@ I am a passionate Engineering Manager and Software Developer with over **20 year
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects & Open source contibution
 
 | Project                | Description                                                                              | Technologies                    | Link                                                                 |
 | ---------------------- | ---------------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------------------------------- |
 | **Personal Website**   | Professional portfolio showcasing my experience, projects, and skills.                   | React, GitHub Pages             | [Visit Site](https://galiprandi.github.io/me)                        |
 | **Code Snapshots**     | A podcast featuring 15-minute episodes on modern technologies and development practices. | YouTube, Tech Talks             | [Watch Here](https://www.youtube.com/@Code-Snaps)                    |
 | **Backend Course**     | A comprehensive course on backend development using modern technologies.                 | Node.js, TypeScript, Prisma     | [GitHub Repo](https://github.com/galiprandi/api-stock)               |
+| **Fastify LM**         | A plugin to integrate Large Models (LLMs) with Fastify for AI-powered applications.      | Fastify, Node.js, TypeScript    | [View on NPM](https://www.npmjs.com/package/fastify-lm)              |
 | **React Tools**        | A utility library to simplify and enhance React development.                             | React, TypeScript, NPM          | [View on NPM](https://www.npmjs.com/package/@galiprandi/react-tools) |
-| **Array Join**         | A utility library for joining arrays with custom formatting options.                     | TypeScript, NPM                 | [View on NPM](https://www.npmjs.com/package/@galiprandi/array-join)  |
+| **Array Tools**        | A utility library for joining arrays with custom formatting options.                     | TypeScript, NPM                 | [View on NPM](https://www.npmjs.com/package/@galiprandi/array-tools) |
 | **Tabata Timer**       | A PWA for interval-based workouts using the Tabata method.                               | React, TypeScript, PWA          | [Live App](https://galiprandi.github.io/tabata)                      |
 | **CSS Toolset**        | A collection of useful CSS utilities for modern web development.                         | CSS, GitHub Actions             | [GitHub Repo](https://github.com/galiprandi/css-toolset)             |
 | **Sustainable Cities** | A data-driven app promoting sustainable urban development.                               | React, TypeScript, GitHub Pages | [Live App](https://galiprandi.github.io/ciudades-sostenibles)        |
