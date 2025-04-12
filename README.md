@@ -12,7 +12,8 @@ I am a passionate Engineering Manager and Software Developer with over **20 year
 - 💼 **Current Role**: Engineering Manager at **Egg Live**.  
 - 🔨 **Tech Stack**: TypeScript, React, Node.js, AWS.  
 - 🎙️ **Creator** of the podcast [Code Snapshots](https://www.youtube.com/@Code-Snaps).  
-- 🚀 **Key Areas**: Agile methodologies, technical leadership, software architecture, and cloud computing.  
+- 🚀 **Key Areas**: Agile methodologies, technical leadership, software architecture, and cloud computing.
+- 🌍 **Open Source Contributor**: Author of popular npm packages including [React Tools](https://www.npmjs.com/package/@galiprandi/react-tools), [Array Tools](https://www.npmjs.com/package/@galiprandi/array-tools), and [Fastify LM](https://www.npmjs.com/package/fastify-lm).
 
 ---
 
