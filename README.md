@@ -4,7 +4,6 @@
   🚀 Engineering Manager | Software Developer | Tech Leader  
 </p>
 
-
 ### 🧑‍💻 About Me
 
 I am a passionate Engineering Manager and Software Developer with over **20 years of experience** leading high-impact projects and building **scalable software solutions**. My expertise lies in fostering **collaborative engineering teams**, driving **technical excellence**, and staying ahead of **emerging technologies**.
@@ -13,7 +12,7 @@ I am a passionate Engineering Manager and Software Developer with over **20 year
 - 🔨 **Tech Stack**: TypeScript, React, Node.js, AWS.  
 - 🎙️ **Creator** of the podcast [Code Snapshots](https://www.youtube.com/@Code-Snaps).  
 - 🚀 **Key Areas**: Agile methodologies, technical leadership, software architecture, and cloud computing.
-- 🌍 **Open Source Contributor**: Author of popular npm packages including [React Tools](https://www.npmjs.com/package/@galiprandi/react-tools), [Array Tools](https://www.npmjs.com/package/@galiprandi/array-tools), and [Fastify LM](https://www.npmjs.com/package/fastify-lm).
+- 🌍 **Open Source Contributor**: Author of popular npm packages including [React Tools](https://www.npmjs.com/package/@galiprandi/react-tools), [Array Tools](https://www.npmjs.com/package/@galiprandi/array-tools), [Fastify LM](https://www.npmjs.com/package/fastify-lm), and [@interpolator/xlsx](https://www.npmjs.com/package/@interpolator/xlsx).
 
 ---
 
@@ -27,6 +26,7 @@ I am a passionate Engineering Manager and Software Developer with over **20 year
 | **Fastify LM**         | A plugin to integrate Large Models (LLMs) with Fastify for AI-powered applications.      | Fastify, Node.js, TypeScript    | [View on NPM](https://www.npmjs.com/package/fastify-lm)              |
 | **React Tools**        | A utility library to simplify and enhance React development.                             | React, TypeScript, NPM          | [View on NPM](https://www.npmjs.com/package/@galiprandi/react-tools) |
 | **Array Tools**        | A utility library for joining arrays with custom formatting options.                     | TypeScript, NPM                 | [View on NPM](https://www.npmjs.com/package/@galiprandi/array-tools) |
+| **@interpolator/xlsx** | Excel template interpolation library for generating dynamic spreadsheets from JSON data. | Node.js, TypeScript, ExcelJS    | [View on NPM](https://www.npmjs.com/package/@interpolator/xlsx)      |
 | **Tabata Timer**       | A PWA for interval-based workouts using the Tabata method.                               | React, TypeScript, PWA          | [Live App](https://galiprandi.github.io/tabata)                      |
 | **CSS Toolset**        | A collection of useful CSS utilities for modern web development.                         | CSS, GitHub Actions             | [GitHub Repo](https://github.com/galiprandi/css-toolset)             |
 | **Sustainable Cities** | A data-driven app promoting sustainable urban development.                               | React, TypeScript, GitHub Pages | [Live App](https://galiprandi.github.io/ciudades-sostenibles)        |
@@ -38,21 +38,25 @@ I am a passionate Engineering Manager and Software Developer with over **20 year
 ### 🛠 Technical Skills
 
 #### **Frontend Development**
+
 - React, Next.js, TypeScript, Qwik, Vite
 - State Management: React Query, Redux, Zustand
 - UI/UX: Styled Components, Tailwind CSS
 
 #### **Backend Development**
+
 - Node.js, Fastify, Express
 - Database: PostgreSQL, Prisma, MongoDB
 - API Development: REST, GraphQL, WebSockets
 
 #### **Cloud & DevOps**
+
 - AWS (EC2, S3, Lambda, DynamoDB)
 - Docker, Kubernetes, GitHub Actions
 - CI/CD pipelines, Bash Scripting
 
 #### **Testing & Automation**
+
 - Unit & Integration Testing: Vitest, Jest
 - End-to-End Testing: Playwright, Cypress
 
