@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=galiprandi&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/galiprandi?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/galiprandi?style=social" alt="Followers" />
 </div>
 
 <p align="center">
