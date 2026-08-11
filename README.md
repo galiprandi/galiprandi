@@ -5,18 +5,18 @@
 </div>
 
 <p align="center">
-  🚀 SDLC & AI Strategy Architect | Staff Software Engineer | Tech Leader
+  🚀 Staff Software Engineer | SDLC & AI Strategy Architect
 </p>
 
 ### 🧑‍💻 About Me
 
 Architecting the next decade of AI-driven engineering. With over **20 years of experience**, I specialize in transforming the Software Development Lifecycle (SDLC) through innovative architectures and large-scale AI adoption. Currently leading the **AI-augmented SDLC** transformation at **Cencosud (+120k employees)**, orchestrating agent behaviors for **800+ developers**.
 
-- 💼 **Current Role**: Software Engineer & AI Strategist at **Cencosud**.
+- 💼 **Current Role**: Staff Software Engineer & AI Strategist at **Cencosud**.
 - 🔨 **Current Focus**: Context Engineering, LLM Orchestration, and AI Governance.
 - 🚀 **Flagship Project**: **Workflow AI**, an agentic engine selected over Big Tech alternatives to automate the full SDLC.
-- 🌍 **Open Source Author**: Creator of **Axioma** (clean-architecture for AI), **Fastify LM**, and **mcp-vs-fnc**.
-- 📈 **Impact**: Selected over Google and AWS for Cencosud; projected 3x TTM acceleration; scaled platforms to 50x concurrent users.
+- 🌍 **Open Source Author**: Creator of **Axioma** (clean-architecture for AI), **fastify-lm**, **job-seeker**, and **mcp-vs-fnc**.
+- 📈 **Impact**: Selected over Google, AWS, and Microsoft for Cencosud; projected 2x–3x TTM acceleration; scaled platforms to 50x concurrent users.
 
 ---
 
@@ -24,18 +24,16 @@ Architecting the next decade of AI-driven engineering. With over **20 years of e
 
 | Project | Description | Primary Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Workflow AI** | AI-augmented SDLC engine adopted by Cencosud to orchestrate 800+ devs. Selected over Google/AWS. 3x TTM acceleration projected. | Context Engineering, MCP | [Visit Site](https://galiprandi.github.io/me) |
-| **Axioma** | Infrastructure-agnostic framework for autonomous AI agent orchestration. | TypeScript, Clean Arch | [GitHub](https://github.com/galiprandi/axioma) |
+| **Workflow AI** | AI-augmented SDLC engine adopted by Cencosud to orchestrate 800+ devs. Selected over Google, AWS, and Microsoft. 2x–3x TTM acceleration projected. | Context Engineering, MCP | [Visit Site](https://galiprandi.github.io/me) |
+| **Axioma** | Clean-architecture framework for AI-assisted development and agentic orchestration. | TypeScript, Clean Arch | [GitHub](https://github.com/axioma-framework/axioma) |
+| **job-seeker** | Agentic workflow framework for job-search automation. Human-in-the-loop by design. | Node.js, Playwright, Postgres | [Docs](https://galiprandi.github.io/job-seeker/) |
 | **fastify-lm** | Multi-provider LLM connectivity plugin for the Fastify ecosystem. | Node.js, LLMs | [NPM](https://www.npmjs.com/package/fastify-lm) |
-| **mcp-vs-fnc** | Comparative research on Model Context Protocol vs. Function Calling. | AI Protocols, Research | [GitHub](https://github.com/galiprandi/mcp-vs-fnc) |
+| **mcp-vs-fnc** | Comparative research on Model Context Protocol vs. Function Calling. | AI Protocols, Research | [Docs](https://galiprandi.github.io/mcp-vs-fnc/1) |
 | **development-guide** | Engineering culture and standards for high-performance teams. | Leadership, SDLC | [GitHub](https://github.com/galiprandi/development-guide) |
-| **@interpolator/xlsx** | Dynamic Excel template interpolation engine for business processes. | Node.js, TypeScript | [NPM](https://www.npmjs.com/package/@interpolator/xlsx) |
 | **@galiprandi/react-tools** | Lightweight React utilities and components for UI productivity. | React, TypeScript | [NPM](https://www.npmjs.com/package/@galiprandi/react-tools) |
-| **@galiprandi/array-tools** | High-performance JavaScript utilities for SQL-like operations on arrays. | JavaScript, TypeScript | [NPM](https://www.npmjs.com/package/@galiprandi/array-tools) |
-| **zero-ui** | Concept exploration of invisible interfaces for next-gen UX. | React, Experimental | [GitHub](https://github.com/galiprandi/zero-ui) |
 
 **Key Impact Metrics:**
-- 🚀 **Workflow AI**: 3x TTM acceleration projected for Cencosud
+- 🚀 **Workflow AI**: 2x–3x TTM acceleration projected for Cencosud
 - ⚡ **Egg Live**: 10x fewer API calls, 50x concurrent users scaled
 - 🎯 **Release Flow**: Cut manual work from 50 min to 5 min automated
 
@@ -49,7 +47,7 @@ Architecting the next decade of AI-driven engineering. With over **20 years of e
 
 #### **Backend & Infrastructure**
 - Node.js, Fastify, RabbitMQ, CloudEvents
-- AWS (Lambda, S3, DynamoDB), Docker, GitHub Actions (CI/CD)
+- AWS (Lambda, SQS), Docker, GitHub Actions (CI/CD)
 
 #### **Frontend & Real-time**
 - React, Next.js, TanStack Query, WebSockets
@@ -64,19 +62,19 @@ Architecting the next decade of AI-driven engineering. With over **20 years of e
 
 ### 💼 Professional Highlights
 
-**Cencosud S.A.** — Software Engineer (Jan 2026 – Present)
+**Cencosud S.A.** — Staff Software Engineer (Jun 2025 – Present)
 - Leading AI-augmented SDLC for 800+ developers and 120,000 employees
-- Selected over Google/AWS alternatives for end-to-end SDLC coverage
+- Selected over Google, AWS, and Microsoft alternatives for end-to-end SDLC coverage
 - Projected 2x–3x faster Time-to-Market with corporate-scale consistency
-
-**Egg Live** — Engineering Manager / Software Engineer (Jun 2021 – Dec 2025)
-- Scaled platform to 50x concurrent users with event-driven architecture
-- 10x fewer API calls using TanStack Query + WebSockets
-- Mentored 30+ developers during hypergrowth period
 
 **Rooftop** — Senior Technical Interviewer / Staff Consultant (Jul 2025 – Dec 2025)
 - Executed 50+ deep-dive technical assessments for Senior Node.js, React, and AI roles
 - Standardized evaluation metrics for system architecture and problem-solving
+
+**Egg Live** — Engineering Manager / Software Engineer (Jun 2021 – May 2025)
+- Scaled platform to 50x concurrent users with event-driven architecture
+- 10x fewer API calls using TanStack Query + WebSockets
+- Mentored 30+ developers during hypergrowth period
 
 **Gadget** — Software Engineer (Apr 2010 – Jun 2021)
 - Led modernization from legacy to scalable SaaS with React, Node.js, AWS
@@ -95,6 +93,9 @@ Architecting the next decade of AI-driven engineering. With over **20 years of e
 ---
 
 ### 🎓 Certifications
+- **Building AI Agents with MongoDB** (09/2025)
+- **Building RAG Apps Using MongoDB** (09/2025)
+- **Building AI-Powered Search with MongoDB Vector Search** (08/2025)
 - **Leadership: Engineering Management** (03/2022)
 - **React.Js** (05/2021)
 - **Python** (08/2020)
