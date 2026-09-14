@@ -5,14 +5,14 @@
 </div>
 
 <p align="center">
-  🚀 Staff Software Engineer | SDLC & AI Strategy Architect
+  🚀 Software Engineer | SDLC & AI Strategy Architect
 </p>
 
 ### 🧑‍💻 About Me
 
-Architecting the next decade of AI-driven engineering. With over **20 years of experience**, I specialize in transforming the Software Development Lifecycle (SDLC) through innovative architectures and large-scale AI adoption. Currently leading the **AI-augmented SDLC** transformation at **Cencosud (+120k employees)**, orchestrating agent behaviors for **800+ developers**.
+Architecting the next decade of AI-driven engineering. With over **25 years of experience**, I specialize in transforming the Software Development Lifecycle (SDLC) through innovative architectures and large-scale AI adoption. Currently leading the **AI-augmented SDLC** transformation at **Cencosud (+120k employees)**, orchestrating agent behaviors for **800+ developers**.
 
-- 💼 **Current Role**: Staff Software Engineer & AI Strategist at **Cencosud**.
+- 💼 **Current Role**: Software Engineer & AI Strategy Lead (part-time) at **Cencosud**.
 - 🔨 **Current Focus**: Context Engineering, LLM Orchestration, and AI Governance.
 - 🚀 **Flagship Project**: **Workflow AI**, an agentic engine selected over Big Tech alternatives to automate the full SDLC.
 - 🌍 **Open Source Author**: Creator of **Axioma** (clean-architecture for AI), **fastify-lm**, **job-seeker**, and **mcp-vs-fnc**.
@@ -42,7 +42,7 @@ Architecting the next decade of AI-driven engineering. With over **20 years of e
 ### 🛠 Technical Ecosystem
 
 #### **AI & Strategy**
-- AI-augmented SDLC, Context Engineering, LLM Orchestration
+- AI Strategy, AI-augmented SDLC, Context Engineering, LLM Orchestration
 - Model Context Protocol (MCP), System Prompting, Agentic Workflows
 
 #### **Backend & Infrastructure**
@@ -62,12 +62,12 @@ Architecting the next decade of AI-driven engineering. With over **20 years of e
 
 ### 💼 Professional Highlights
 
-**Cencosud S.A.** — Staff Software Engineer (Jun 2025 – Present)
+**Cencosud S.A.** — Software Engineer (Jun 2025 – Present)
 - Leading AI-augmented SDLC for 800+ developers and 120,000 employees
 - Selected over Google, AWS, and Microsoft alternatives for end-to-end SDLC coverage
 - Projected 2x–3x faster Time-to-Market with corporate-scale consistency
 
-**Rooftop** — Senior Technical Interviewer / Staff Consultant (Jul 2025 – Dec 2025)
+**Rooftop** — Technical Validator, Fullstack (Jul 2025 – Dec 2025)
 - Executed 50+ deep-dive technical assessments for Senior Node.js, React, and AI roles
 - Standardized evaluation metrics for system architecture and problem-solving
 
