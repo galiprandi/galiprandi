@@ -15,7 +15,7 @@ Architecting the next decade of AI-driven engineering. With over **25 years of e
 - 💼 **Current Role**: Software Engineer & AI Strategy Lead (part-time) at **Cencosud**.
 - 🔨 **Current Focus**: Context Engineering, LLM Orchestration, and AI Governance.
 - 🚀 **Flagship Project**: **Workflow AI**, an agentic engine selected over Big Tech alternatives to automate the full SDLC.
-- 🌍 **Open Source Author**: Creator of **Axioma** (clean-architecture for AI), **fastify-lm**, **job-seeker**, and **mcp-vs-fnc**.
+- 🌍 **Open Source Author**: Creator of **Axioma** (spec-driven development for AI agents, RFC), **fastify-lm**, **job-seeker**, and **mcp-vs-fnc**.
 - 📈 **Impact**: Selected over Google, AWS, and Microsoft for Cencosud; projected 2x–3x TTM acceleration; scaled platforms to 50x concurrent users.
 
 ---
@@ -25,7 +25,7 @@ Architecting the next decade of AI-driven engineering. With over **25 years of e
 | Project | Description | Primary Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Workflow AI** | AI-augmented SDLC engine adopted by Cencosud to orchestrate 800+ devs. Selected over Google, AWS, and Microsoft. 2x–3x TTM acceleration projected. | Context Engineering, MCP | [Visit Site](https://galiprandi.github.io/me) |
-| **Axioma** | Clean-architecture framework for AI-assisted development and agentic orchestration. | TypeScript, Clean Arch | [GitHub](https://github.com/axioma-framework/axioma) |
+| **Axioma** | Spec-driven development framework for AI agents (experimental RFC): specialized agents turn specs into validated code through a test-first, human-gated pipeline. | TypeScript, Agents, MCP | [GitHub](https://github.com/axioma-framework/axioma) |
 | **job-seeker** | Agentic workflow framework for job-search automation. Human-in-the-loop by design. | Node.js, Playwright, Postgres | [Docs](https://galiprandi.github.io/job-seeker/) |
 | **fastify-lm** | Multi-provider LLM connectivity plugin for the Fastify ecosystem. | Node.js, LLMs | [NPM](https://www.npmjs.com/package/fastify-lm) |
 | **mcp-vs-fnc** | Comparative research on Model Context Protocol vs. Function Calling. | AI Protocols, Research | [Docs](https://galiprandi.github.io/mcp-vs-fnc/1) |
