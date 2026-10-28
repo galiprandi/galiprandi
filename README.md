@@ -5,16 +5,16 @@
 </div>
 
 <p align="center">
-  🚀 Software Engineer | SDLC & AI Strategy Architect
+  🚀 AI Architect @ NTT DATA Europe & Latam | SDLC & AI Strategy
 </p>
 
 ### 🧑‍💻 About Me
 
-Architecting the next decade of AI-driven engineering. With over **25 years of experience**, I specialize in transforming the Software Development Lifecycle (SDLC) through innovative architectures and large-scale AI adoption. Currently leading the **AI-augmented SDLC** transformation at **Cencosud (+120k employees)**, orchestrating agent behaviors for **800+ developers**.
+Architecting the next decade of AI-driven engineering. With over **25 years of experience**, I specialize in transforming the Software Development Lifecycle (SDLC) through innovative architectures and large-scale AI adoption. Currently **AI Architect** at **NTT DATA Europe & Latam** (Digital Architecture division), designing agentic AI solutions for enterprise clients. Previously led the **AI-augmented SDLC** transformation at **Cencosud (+120k employees)**, orchestrating agent behaviors for **800+ developers**.
 
-- 💼 **Current Role**: Software Engineer & AI Strategy Lead (part-time) at **Cencosud**.
+- 💼 **Current Role**: AI Architect at **NTT DATA Europe & Latam** (Digital Architecture).
 - 🔨 **Current Focus**: Context Engineering, LLM Orchestration, and AI Governance.
-- 🚀 **Flagship Project**: **Workflow AI**, an agentic engine selected over Big Tech alternatives to automate the full SDLC.
+- 🚀 **Flagship Project**: **acp-connector**, ACP bridge connecting AI agents to Telegram/Discord with self-reminders and agent-managed cron. Creator of **Workflow AI**, an agentic engine selected over Big Tech alternatives to automate the full SDLC.
 - 🌍 **Open Source Author**: Creator of **Axioma** (spec-driven development for AI agents, RFC), **fastify-lm**, **job-seeker**, and **mcp-vs-fnc**.
 - 📈 **Impact**: Selected over Google, AWS, and Microsoft for Cencosud; projected 2x–3x TTM acceleration; scaled platforms to 50x concurrent users.
 
@@ -24,12 +24,12 @@ Architecting the next decade of AI-driven engineering. With over **25 years of e
 
 | Project | Description | Primary Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **acp-connector** | Thin bridge connecting messaging platforms (Telegram/Discord) to any ACP-compatible agent, with reminders and cron jobs. | Node.js, ACP, Agents | [GitHub](https://github.com/galiprandi/acp-connector) |
 | **Workflow AI** | AI-augmented SDLC engine adopted by Cencosud to orchestrate 800+ devs. Selected over Google, AWS, and Microsoft. 2x–3x TTM acceleration projected. | Context Engineering, MCP | [Visit Site](https://galiprandi.github.io/me) |
 | **Axioma** | Spec-driven development framework for AI agents (experimental RFC): specialized agents turn specs into validated code through a test-first, human-gated pipeline. | TypeScript, Agents, MCP | [GitHub](https://github.com/axioma-framework/axioma) |
 | **job-seeker** | Agentic workflow framework for job-search automation. Human-in-the-loop by design. | Node.js, Playwright, Postgres | [Docs](https://galiprandi.github.io/job-seeker/) |
 | **fastify-lm** | Multi-provider LLM connectivity plugin for the Fastify ecosystem. | Node.js, LLMs | [NPM](https://www.npmjs.com/package/fastify-lm) |
 | **mcp-vs-fnc** | Comparative research on Model Context Protocol vs. Function Calling. | AI Protocols, Research | [Docs](https://galiprandi.github.io/mcp-vs-fnc/1) |
-| **development-guide** | Engineering culture and standards for high-performance teams. | Leadership, SDLC | [GitHub](https://github.com/galiprandi/development-guide) |
 | **@galiprandi/react-tools** | Lightweight React utilities and components for UI productivity. | React, TypeScript | [NPM](https://www.npmjs.com/package/@galiprandi/react-tools) |
 
 **Key Impact Metrics:**
@@ -62,7 +62,11 @@ Architecting the next decade of AI-driven engineering. With over **25 years of e
 
 ### 💼 Professional Highlights
 
-**Cencosud S.A.** — Software Engineer (Jun 2025 – Present)
+**NTT DATA Europe & Latam** — AI Architect (Oct 2026 – Present)
+- Digital Architecture division: agentic AI solutions for enterprise clients
+- Passionate about Agent-First SDLC, AI agents in every phase of delivery
+
+**Cencosud S.A.** — Software Engineer (Jun 2025 – Oct 2026)
 - Leading AI-augmented SDLC for 800+ developers and 120,000 employees
 - Selected over Google, AWS, and Microsoft alternatives for end-to-end SDLC coverage
 - Projected 2x–3x faster Time-to-Market with corporate-scale consistency
@@ -79,6 +83,8 @@ Architecting the next decade of AI-driven engineering. With over **25 years of e
 **Gadget** — Software Engineer (Apr 2010 – Jun 2021)
 - Led modernization from legacy to scalable SaaS with React, Node.js, AWS
 - Maintained 98.7% uptime for high-value platforms
+
+**Earlier:** LBC Tech (Founding Lead, 2004–2010) · Gayol Computación (Technical Leader, 1997–2005, de-facto GM of ~20 people)
 
 ---
 
