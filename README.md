@@ -63,8 +63,9 @@ Architecting the next decade of AI-driven engineering. With over **25 years of e
 ### 💼 Professional Highlights
 
 **NTT DATA Europe & Latam** — AI Architect (Oct 2026 – Present)
-- Digital Architecture division: agentic AI solutions for enterprise clients
-- Passionate about Agent-First SDLC, AI agents in every phase of delivery
+- Enterprise AI Technical Evaluation & Architecture (RFPs): agentic software factories on client infrastructure (LiteLLM, FinOps, agent governance, Omnigent, Databricks) for Energy, Oil & Gas, Banking and Insurance
+- Strategic Consulting & Profile Discovery: requirements intake for multinational Telecom clients, architecture role profiles in Cybersecurity and DevSecOps
+- Frontier Architecture Innovation & R&D: next-gen agentic software factory architectures and internal strategic initiatives
 
 **Cencosud S.A.** — Software Engineer (Jun 2025 – Oct 2026)
 - Leading AI-augmented SDLC for 800+ developers and 120,000 employees
